@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "84ef10c71a7b8aa5",
+    "type": "split",
+    "children": [
+      {
+        "id": "27b434a7b266fa17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c1ce3a7cd5abd18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "97e62bf464118879",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c9c9e5551aaae12",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cea59a50bcf69fee",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dd3c284904c42c3b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "758d0a0f36f6fe5b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5ba5ab231c14e19b",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c01df0d93196e32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ccd91e390e1cebbb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cd99aecef45a4e88",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "612247da7e590323",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "44def76edc6dfd32",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "index.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "webpage-html-export:Export Vault to HTML": false
+    }
+  },
+  "active": "6c1ce3a7cd5abd18",
+  "lastOpenFiles": [
+    "Knowledge Map.canvas",
+    "index.md",
+    "Glossary.md",
+    "Subjects/Time/Time.md",
+    "Subjects/Time/Tempo.md",
+    "Subjects/Time/Rhythm.md",
+    "Subjects/Time/Groove.md",
+    "Subjects/Time/Feels.md",
+    "Subjects/Time/Metronome Excercises/Internalizing The Slow Beat.md",
+    "Subjects/Time/Metronome Excercises/Grooving The Feels.md",
+    "Subjects/Time/Metronome Excercises/Building Up Speed.md",
+    "Subjects/Time/Metronome Excercises/Breaking Down Rhythms.md",
+    "Subjects/Time/Developing Sense Of Time/Finding The 'One'.md",
+    "Subjects/Time/Developing Sense Of Time/Drum Beats Everyone Should Know.md",
+    "Subjects/Time/Developing Sense Of Time/Counting.md",
+    "Subjects/Theory/Theory.md",
+    "Subjects/Technique/Technique.md",
+    "Subjects/Practice/Practice.md",
+    "Subjects/Pitch/Pitch.md",
+    "Subjects/Composition/Composition.md"
+  ]
+}
