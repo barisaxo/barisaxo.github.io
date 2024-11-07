@@ -1,0 +1,281 @@
+{
+  "vaultName": "Musicians-Primer",
+  "lastExport": 1728307272858,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": true,
+  "files": [
+    "Subjects/Composition/Composition.md",
+    "Subjects/Form/Form.md",
+    "Subjects/Pitch/Pitch.md",
+    "Subjects/Practice/Practice.md",
+    "Subjects/Technique/Technique.md",
+    "Subjects/Theory/Theory.md",
+    "Subjects/Time/Developing Sense Of Time/Counting.md",
+    "Subjects/Time/Developing Sense Of Time/Drum Beats Everyone Should Know.md",
+    "Subjects/Time/Developing Sense Of Time/Finding The 'One'.md",
+    "Subjects/Time/Metronome Excercises/Breaking Down Rhythms.md",
+    "Subjects/Time/Metronome Excercises/Building Up Speed.md",
+    "Subjects/Time/Metronome Excercises/Grooving The Feels.md",
+    "Subjects/Time/Metronome Excercises/Internalizing The Slow Beat.md",
+    "Subjects/Time/Feels.md",
+    "Subjects/Time/Groove.md",
+    "Subjects/Time/Rhythm.md",
+    "Subjects/Time/Tempo.md",
+    "Subjects/Time/Time.md",
+    "Glossary.md",
+    "index.md",
+    "Knowledge Map.canvas",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/3d6c1bdc4d87cde4de67.svg"
+  ],
+  "mainDependencies": [
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/3d6c1bdc4d87cde4de67.svg"
+  ],
+  "fileInfo": {
+    "Subjects/Composition/Composition.md": {
+      "modifiedTime": 1728307272858,
+      "sourceSize": 522,
+      "exportedPath": "Subjects/Composition/Composition.html",
+      "dependencies": []
+    },
+    "Subjects/Form/Form.md": {
+      "modifiedTime": 1728307272858,
+      "sourceSize": 62,
+      "exportedPath": "Subjects/Form/Form.html",
+      "dependencies": []
+    },
+    "Subjects/Pitch/Pitch.md": {
+      "modifiedTime": 1728307272858,
+      "sourceSize": 0,
+      "exportedPath": "Subjects/Pitch/Pitch.html",
+      "dependencies": []
+    },
+    "Subjects/Practice/Practice.md": {
+      "modifiedTime": 1728307272858,
+      "sourceSize": 0,
+      "exportedPath": "Subjects/Practice/Practice.html",
+      "dependencies": []
+    },
+    "Subjects/Technique/Technique.md": {
+      "modifiedTime": 1728307272858,
+      "sourceSize": 0,
+      "exportedPath": "Subjects/Technique/Technique.html",
+      "dependencies": []
+    },
+    "Subjects/Theory/Theory.md": {
+      "modifiedTime": 1728307272858,
+      "sourceSize": 0,
+      "exportedPath": "Subjects/Theory/Theory.html",
+      "dependencies": []
+    },
+    "Subjects/Time/Developing Sense Of Time/Counting.md": {
+      "modifiedTime": 1728307272858,
+      "sourceSize": 333,
+      "exportedPath": "Subjects/Time/Developing Sense Of Time/Counting.html",
+      "dependencies": []
+    },
+    "Subjects/Time/Developing Sense Of Time/Drum Beats Everyone Should Know.md": {
+      "modifiedTime": 1728307272858,
+      "sourceSize": 0,
+      "exportedPath": "Subjects/Time/Developing Sense Of Time/Drum Beats Everyone Should Know.html",
+      "dependencies": []
+    },
+    "Subjects/Time/Developing Sense Of Time/Finding The 'One'.md": {
+      "modifiedTime": 1728307272858,
+      "sourceSize": 0,
+      "exportedPath": "Subjects/Time/Developing Sense Of Time/Finding The 'One'.html",
+      "dependencies": []
+    },
+    "Subjects/Time/Metronome Excercises/Breaking Down Rhythms.md": {
+      "modifiedTime": 1728307272858,
+      "sourceSize": 0,
+      "exportedPath": "Subjects/Time/Metronome Excercises/Breaking Down Rhythms.html",
+      "dependencies": []
+    },
+    "Subjects/Time/Metronome Excercises/Building Up Speed.md": {
+      "modifiedTime": 1728307272858,
+      "sourceSize": 0,
+      "exportedPath": "Subjects/Time/Metronome Excercises/Building Up Speed.html",
+      "dependencies": []
+    },
+    "Subjects/Time/Metronome Excercises/Grooving The Feels.md": {
+      "modifiedTime": 1728307272858,
+      "sourceSize": 17,
+      "exportedPath": "Subjects/Time/Metronome Excercises/Grooving The Feels.html",
+      "dependencies": []
+    },
+    "Subjects/Time/Metronome Excercises/Internalizing The Slow Beat.md": {
+      "modifiedTime": 1728307272858,
+      "sourceSize": 0,
+      "exportedPath": "Subjects/Time/Metronome Excercises/Internalizing The Slow Beat.html",
+      "dependencies": []
+    },
+    "Subjects/Time/Feels.md": {
+      "modifiedTime": 1728307272858,
+      "sourceSize": 295,
+      "exportedPath": "Subjects/Time/Feels.html",
+      "dependencies": []
+    },
+    "Subjects/Time/Groove.md": {
+      "modifiedTime": 1728307272858,
+      "sourceSize": 223,
+      "exportedPath": "Subjects/Time/Groove.html",
+      "dependencies": []
+    },
+    "Subjects/Time/Rhythm.md": {
+      "modifiedTime": 1728307272858,
+      "sourceSize": 386,
+      "exportedPath": "Subjects/Time/Rhythm.html",
+      "dependencies": []
+    },
+    "Subjects/Time/Tempo.md": {
+      "modifiedTime": 1728307272858,
+      "sourceSize": 347,
+      "exportedPath": "Subjects/Time/Tempo.html",
+      "dependencies": []
+    },
+    "Subjects/Time/Time.md": {
+      "modifiedTime": 1728307272858,
+      "sourceSize": 654,
+      "exportedPath": "Subjects/Time/Time.html",
+      "dependencies": []
+    },
+    "Glossary.md": {
+      "modifiedTime": 1728307272858,
+      "sourceSize": 214,
+      "exportedPath": "Glossary.html",
+      "dependencies": []
+    },
+    "index.md": {
+      "modifiedTime": 1728307272858,
+      "sourceSize": 556,
+      "exportedPath": "index.html",
+      "dependencies": []
+    },
+    "Knowledge Map.canvas": {
+      "modifiedTime": 1728307272858,
+      "sourceSize": 8304,
+      "exportedPath": "Knowledge Map.html",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1728307272858,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1728307272858,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1728307272858,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1728307272858,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1728307272858,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1728307272858,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1728307272858,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1728307272858,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1728307272858,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1728307272858,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1728307272858,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1728307272858,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1728307272858,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1728307272858,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/media/3d6c1bdc4d87cde4de67.svg": {
+      "modifiedTime": 1728307272858,
+      "sourceSize": 279,
+      "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
+      "dependencies": []
+    }
+  }
+}
