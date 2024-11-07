@@ -1,13 +1,13 @@
 @font-face {
     font-family: hand;
     size: "23";
-    src: url(http://2ttf.com/download/46VOSS54wK);
+    src: url("Pinos_Hand.ttf"), url(http://2ttf.com/download/46VOSS54wK);
 }
 
 @font-face {
     font-family: music;
     size: "23";
-    src: url(http://2ttf.com/download/C1ZTIdaxiwa);
+    src: url("pinosmusic.ttf"), url(http://2ttf.com/download/C1ZTIdaxiwa);
 }
 
 #box-one {
