@@ -1,68 +1,89 @@
 @font-face {
     font-family: hand;
-    size: "23";
-    src: url("Pinos_Hand.ttf"), url(http://2ttf.com/download/46VOSS54wK);
+    font-size: 14vw;
+    src: url("Fonts/pinoshand.ttf");
 }
 
 @font-face {
     font-family: music;
-    size: "23";
-    src: url("pinosmusic.ttf"), url("pinosmusic.woff"), url(http://2ttf.com/download/C1ZTIdaxiwa);
+    font-size: 14vw;
+    src: url("Fonts/pinosmusic.ttf");
 }
 
 #box-one {
     background-color: rgb(46, 40, 40);
-    border: 5px solid black;
-    padding: 50px;
+    border: .25vw solid black;
+    padding: 1vw;
     width: fit-content;
-    margin: 25px 50px 75px 100px;
+    margin: 1.25vw 1.50vw;
     transition: background-color 10.5s, border 0.35s;
 }
 
 #box-one:hover {
     background-color: rgb(36, 24, 37);
-    border: 5px solid rgb(34, 2, 2);
+    border: .25vw solid rgb(34, 2, 2);
 }
 
-#box-two {
-    background-color: rgb(105, 105, 92);
-    padding: 5px;
-}
-
-#box-three {
-    background-color: rgb(92, 94, 105);
-    padding: 5px;
-}
 
 body {
     background-color: #0F0703;
     width: fit-content;
+    margin: 1.25vw;
+    font-family: hand;
 }
 
 h1 {
     text-align: center;
     color: rgb(255, 0, 0);
-    margin-left: 20px;
+    margin-left: 2vw;
 }
 
 h3 {
     color: rgb(254, 205, 153);
-    margin-left: 20px;
+    margin-left: 2vw;
 }
 
 h2 {
     color: rgb(209, 203, 196);
-    margin-left: 20px;
+    margin-left: 2vw;
 }
 
 
 p {
-    color: rgb(254, 205, 153);
-    margin-left: 20px;
+    color: rgb(235, 228, 238);
+    margin: 1.25vw;
+    padding: 1vw;
+    font-size: 2vw;
 }
 
 div {
-    border: 1px solid rgb(197, 163, 163);
-    margin: 25px 50px 75px 100px;
+    border: 1vw solid rgb(0, 0, 0);
+    margin: 1.25vw;
+    width: fit-content;
     background-color: rgb(26, 29, 30);
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+    color: rgb(246, 183, 110);
+}
+
+a:hover {
+    text-decoration: none;
+    color: rgb(209, 203, 196);
+}
+
+a:active {
+    text-decoration: none;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
