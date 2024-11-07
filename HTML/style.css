@@ -1,0 +1,69 @@
+@font-face {
+    font-family: hand;
+    size: "23";
+    src: url(http://2ttf.com/download/46VOSS54wK);
+}
+
+@font-face {
+    font-family: music;
+    size: "23";
+    src: url(http://2ttf.com/download/C1ZTIdaxiwa);
+}
+
+#box-one {
+    background-color: rgb(46, 40, 40);
+    border: 5px solid black;
+    padding: 50px;
+    width: fit-content;
+    margin: 25px 50px 75px 100px;
+    transition: background-color 10.5s, border 0.35s;
+}
+
+
+
+#box-one:hover {
+    background-color: rgb(36, 24, 37);
+    border: 10px solid black;
+}
+
+#box-two {
+    background-color: rgb(105, 105, 92);
+    padding: 5px;
+}
+
+#box-three {
+    background-color: rgb(92, 94, 105);
+    padding: 5px;
+}
+
+body {
+    background-color: #0F0703;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(255, 0, 0);
+    margin-left: 20px;
+}
+
+h3 {
+    color: rgb(254, 205, 153);
+    margin-left: 20px;
+}
+
+h2 {
+    color: rgb(209, 203, 196);
+    margin-left: 20px;
+}
+
+
+p {
+    color: rgb(254, 205, 153);
+    margin-left: 20px;
+}
+
+div {
+    border: 1px solid rgb(197, 163, 163);
+    margin: 25px 50px 75px 100px;
+    background-color: rgb(26, 29, 30);
+}
