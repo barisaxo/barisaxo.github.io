@@ -13,19 +13,24 @@
 #box-one {
     background-color: rgb(46, 40, 40);
     border: .25vw solid black;
+    border-style: outset;
     padding: 1vw;
     width: fit-content;
-    margin: 1.25vw 1.50vw;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     transition: background-color 10.5s, border 0.35s;
 }
 
 #box-one:hover {
     background-color: rgb(36, 24, 37);
     border: .25vw solid rgb(34, 2, 2);
+    border-style: inset;
 }
 
 
 body {
+    background: linear-gradient(55deg, #0F0703 0%, #130F07 51%, #1F1713 85%);
     background-color: #0F0703;
     /* width: fit-content; */
     margin: 1.25vw;
@@ -76,6 +81,7 @@ a:active {
     text-decoration: none;
 }
 
+
 .center {
     display: block;
     margin-left: auto;
@@ -110,5 +116,6 @@ a:active {
     margin-top: 5vw;
     border: 1vw solid rgb(0, 0, 0);
     width: auto;
-    background-color: rgb(26, 29, 30);
+    /* background-color: rgb(26, 29, 30); */
+    background: linear-gradient(55deg, #130F07 0%, #1F1713 51%, #0F0703 85%);
 }
