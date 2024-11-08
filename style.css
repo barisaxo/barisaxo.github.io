@@ -117,6 +117,5 @@ a:active {
     border: 1vw solid rgb(0, 0, 0);
     width: auto;
     /* background-color: rgb(26, 29, 30); */
-
     background: linear-gradient(55deg, #130F07 0%, #1F1713 51%, #0F0703 85%);
 }
