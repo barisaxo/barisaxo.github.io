@@ -34,6 +34,7 @@ body {
     background-color: #0F0703;
     /* width: fit-content; */
     margin: 1.25vw;
+    margin-top: 10vw;
     color: #F7F3F0;
     font-family: hand;
 }
@@ -113,7 +114,7 @@ a:active {
 
 .main {
     margin: 1.25vw;
-    margin-top: 5vw;
+    margin-top: 15vw;
     border: 1vw solid rgb(0, 0, 0);
     width: auto;
     /* background-color: rgb(26, 29, 30); */
