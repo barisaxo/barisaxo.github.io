@@ -10,6 +10,12 @@
     src: url("Fonts/pinosmusic.ttf");
 }
 
+@font-face {
+    font-family: leland;
+    font-size: 14vw;
+    src: url("Fonts/LelandText.otf");
+}
+
 #box-one {
     background-color: rgb(46, 40, 40);
     border: .25vw solid black;
@@ -66,7 +72,7 @@ p {
 
 a:link {
     text-decoration: none;
-    color: rgb(228, 223, 216);
+    color: cyan;
 }
 
 a:visited {
@@ -120,4 +126,79 @@ a:active {
     width: auto;
     /* background-color: rgb(26, 29, 30); */
     background: linear-gradient(55deg, #130F07 0%, #1F1713 51%, #0F0703 85%);
+}
+
+
+m-u {
+    font-family: music;
+}
+
+m-b::before {
+    font-family: music;
+    content: "b"
+}
+
+m-s::before {
+    font-family: music;
+    content: "s"
+}
+
+m-n::before {
+    font-family: music;
+    content: "n"
+}
+
+m-1::before {
+    font-family: music;
+    content: "!"
+}
+
+m-2::before {
+    font-family: music;
+    content: "@"
+}
+
+m-3::before {
+    font-family: music;
+    content: "#"
+}
+
+m-4::before {
+    font-family: music;
+    content: "$"
+}
+
+m-5::before {
+    font-family: music;
+    content: "%"
+}
+
+m-6::before {
+    font-family: music;
+    content: "^"
+}
+
+m-7::before {
+    font-family: music;
+    content: "&"
+}
+
+m-ma::before {
+    font-family: music;
+    content: "M"
+}
+
+m-mm::before {
+    font-family: music;
+    content: "m"
+}
+
+m-º::before {
+    font-family: music;
+    content: "º"
+}
+
+m-ø::before {
+    font-family: music;
+    content: "ø"
 }
