@@ -20,8 +20,8 @@
     background-color: rgb(46, 40, 40);
     border: .25vw solid black;
     border-style: outset;
-    padding: 1vw;
-    width: fit-content;
+    padding: 2%;
+    width: 85%;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -30,7 +30,7 @@
 
 #box-one:hover {
     background-color: rgb(36, 24, 37);
-    border: .25vw solid rgb(34, 2, 2);
+    /* border: .25vw solid rgb(34, 2, 2); */
     border-style: inset;
 }
 
@@ -39,10 +39,11 @@ body {
     background: linear-gradient(55deg, #0F0703 0%, #130F07 51%, #1F1713 85%);
     background-color: #0F0703;
     /* width: fit-content; */
-    margin: 1.25vw;
-    margin-top: 10vw;
+    margin: 1vw;
+    margin-top: 2vw;
     color: #F7F3F0;
     font-family: hand;
+    padding: 2vw;
 }
 
 h1 {
@@ -94,7 +95,7 @@ a:active {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: fit-content;
+    width: auto;
 }
 
 .navbar {
@@ -102,7 +103,7 @@ a:active {
     background-color: #333;
     position: fixed;
     top: 0;
-    width: 100%;
+    /* width: 100%; */
 }
 
 .navbar a {
@@ -111,7 +112,6 @@ a:active {
     color: #f2f2f2;
     text-align: center;
     padding: 14px 16px;
-    text-decoration: none;
 }
 
 .navbar a:hover {
