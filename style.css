@@ -34,6 +34,21 @@
     border-style: inset;
 }
 
+#margin-l10 {
+    margin-left: 10%;
+}
+
+#margin-l35 {
+    margin-left: 35%;
+}
+
+#center-text {
+    text-align: center;
+}
+
+#no-wrap {
+    white-space: nowrap;
+}
 
 body {
     background: linear-gradient(55deg, #0F0703 0%, #130F07 51%, #1F1713 85%);
@@ -91,11 +106,19 @@ a:active {
 }
 
 
-.center {
+.center-auto {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: auto;
+    text-align: center;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
 }
 
 .navbar {
@@ -127,6 +150,7 @@ a:active {
     /* background-color: rgb(26, 29, 30); */
     background: linear-gradient(55deg, #130F07 0%, #1F1713 51%, #0F0703 85%);
 }
+
 
 
 m-u {
