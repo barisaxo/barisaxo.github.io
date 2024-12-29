@@ -21,10 +21,12 @@
     border: .25vw solid black;
     border-style: outset;
     padding: 2%;
-    width: 85%;
+    max-width: 85%;
+    width: fit-content;
     display: block;
     margin-left: auto;
     margin-right: auto;
+
     transition: background-color 10.5s, border 0.35s;
 }
 
@@ -48,6 +50,8 @@
 
 #no-wrap {
     white-space: nowrap;
+    width: fit-content(75%);
+    max-width: 85%;
 }
 
 body {
@@ -112,6 +116,8 @@ a:active {
     margin-right: auto;
     width: auto;
     text-align: center;
+
+    list-style-position: inside;
 }
 
 .center {
@@ -119,6 +125,8 @@ a:active {
     margin-left: auto;
     margin-right: auto;
     text-align: center;
+
+    list-style-position: inside;
 }
 
 .navbar {
