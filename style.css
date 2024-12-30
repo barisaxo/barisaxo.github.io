@@ -129,14 +129,14 @@ a:active {
     list-style-position: inside;
 }
 
-.navbar {
+/* .navbar {
     overflow: hidden;
     background-color: #333;
     position: fixed;
     top: 0;
     opacity: 0.5;
 
-    /* width: 100%; */
+    // width: 100%; 
 }
 
 .navbar a {
@@ -151,6 +151,25 @@ a:active {
 .navbar a:hover {
     background: #ddd;
     color: black;
+} */
+
+.navbar .navbar-nav {
+    display: inline-block;
+    float: none;
+}
+
+.navbar .navbar-collapse {
+    text-align: center;
+}
+
+
+
+.navbar-brand {
+    position: absolute;
+    width: 100%;
+    left: 0;
+    text-align: center;
+    margin: 0 auto;
 }
 
 .main {
