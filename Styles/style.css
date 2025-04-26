@@ -1,19 +1,19 @@
 @font-face {
     font-family: hand;
     font-size: 14vw;
-    src: url("Fonts/pinoshand.ttf");
+    src: url("../Fonts/pinoshand.ttf");
 }
 
 @font-face {
     font-family: music;
     font-size: 14vw;
-    src: url("Fonts/pinosmusic.ttf");
+    src: url("../Fonts/pinosmusic.ttf");
 }
 
 @font-face {
     font-family: leland;
     font-size: 14vw;
-    src: url("Fonts/LelandText.otf");
+    src: url("../Fonts/LelandText.otf");
 }
 
 #box-one {
@@ -55,15 +55,27 @@
 }
 
 body {
+    margin:  0;
+    color: #F7F3F0;
+    font-family: hand;
+}
+/* .main {
+    margin: 1.25vw;
+    margin-top: 15vw;
+    border: 1vw solid rgb(0, 0, 0);
+    width: auto;
+    /* background-color: rgb(26, 29, 30); 
+    background: linear-gradient(55deg, #130F07 0%, #1F1713 51%, #0F0703 85%);
+} */
+/* main{
     background: linear-gradient(55deg, #0F0703 0%, #130F07 51%, #1F1713 85%);
     background-color: #0F0703;
-    /* width: fit-content; */
+    /* width: fit-content; 
     margin: 1vw;
     margin-top: 2vw;
     color: #F7F3F0;
-    font-family: hand;
     padding: 2vw;
-}
+} */
 
 h1 {
     text-align: center;
@@ -81,6 +93,9 @@ h2 {
     margin-left: 2vw;
 }
 
+h4 {
+    color: rgb(254, 205, 153);
+}
 
 p {
     color: rgb(235, 228, 238);
@@ -153,11 +168,32 @@ a:active {
     color: black;
 } */
 
+.navbar ul{
+    list-style-type: none;
+    background-color: rgb(37, 37, 37);
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+}
+.navbar li{
+    float:left;
+}
+.navbar a{
+    color:rgb(209, 203, 196);
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+.navbar a:hover{
+    
+    background-color: rgb(52, 52, 52);
+}
+
 .navbar .navbar-nav {
     display: inline-block;
     float: none;
 }
-
 .navbar .navbar-collapse {
     text-align: center;
 }
@@ -172,14 +208,6 @@ a:active {
     margin: 0 auto;
 }
 
-.main {
-    margin: 1.25vw;
-    margin-top: 15vw;
-    border: 1vw solid rgb(0, 0, 0);
-    width: auto;
-    /* background-color: rgb(26, 29, 30); */
-    background: linear-gradient(55deg, #130F07 0%, #1F1713 51%, #0F0703 85%);
-}
 
 
 
